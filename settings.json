@@ -16,5 +16,7 @@
     "java.sources.organizeImports.staticStarThreshold": 1,
     "java.project.importOnFirstTimeStartup": "automatic",
     "java.configuration.updateBuildConfiguration": "automatic",
-    "java.format.settings.url": "https://raw.githubusercontent.com/ecmel/vscode-settings/master/eclipse-code-formatter-profile.xml"
+    "java.format.settings.url": "https://raw.githubusercontent.com/ecmel/vscode-settings/master/eclipse-code-formatter-profile.xml",
+    "java.test.editor.enableShortcuts": false,
+    "java.debug.settings.enableRunDebugCodeLens": false
 }
