@@ -12,11 +12,6 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "java.completion.filteredTypes": [
-        "java.awt.*",
-        "com.sun.*",
-        "sun.*"
-    ],
     "java.autobuild.enabled": false,
     "java.sources.organizeImports.staticStarThreshold": 1,
     "java.project.importOnFirstTimeStartup": "automatic",
