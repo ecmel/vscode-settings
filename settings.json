@@ -4,5 +4,7 @@
     "terminal.integrated.fontSize": 13,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "netbeans.conflict.check": false
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.openDebug": "openOnSessionStart",
+    "debug.toolBarLocation": "docked"
 }
