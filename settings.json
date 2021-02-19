@@ -6,5 +6,6 @@
     "git.confirmSync": false,
     "debug.internalConsoleOptions": "openOnSessionStart",
     "debug.openDebug": "openOnSessionStart",
-    "debug.toolBarLocation": "docked"
+    "debug.toolBarLocation": "docked",
+    "netbeans.conflict.check": false
 }
